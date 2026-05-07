@@ -15,3 +15,5 @@ __pycache__/
 
 # Sisyphus orchestration state
 .sisyphus/
+
+CLAUDE.md.bak*
